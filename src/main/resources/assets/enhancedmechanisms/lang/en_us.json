@@ -1,0 +1,51 @@
+{
+	
+	"itemGroup.enhancedmechanisms_items": "Enhanced Mechanisms: Items",
+	"itemGroup.enhancedmechanisms_blocks": "Enhanced Mechanisms: Blocks",
+	
+	"item.enhancedmechanisms.ingot_copper": "Copper Ingot",
+	"item.enhancedmechanisms.ingot_tin": "Tin Ingot",
+	"item.enhancedmechanisms.ingot_steel": "Steel Ingot",
+	"item.enhancedmechanisms.ingot_aluminium": "Aluminium Ingot",
+	"item.enhancedmechanisms.ingot_brass": "Brass Ingot",
+	"item.enhancedmechanisms.ingot_silver": "Silver Ingot",
+	"item.enhancedmechanisms.ingot_bronze": "Bronze Ingot",
+	"item.enhancedmechanisms.ingot_zinc": "Zinc Ingot",
+	"item.enhancedmechanisms.ingot_lead": "Lead Ingot",
+	"item.enhancedmechanisms.ingot_fluxate": "Fluxate Ingot",
+	
+	"item.enhancedmechanisms.ingot_infused_witch": "Witch Infused Ingot",
+	
+	"item.enhancedmechanisms.assembly_fragment": "Assembly Fragment",
+	"item.enhancedmechanisms.dust_charcoal": "Powdered Charcoal",
+	"item.enhancedmechanisms.processor_crude": "Crude Processor",
+	"item.enhancedmechanisms.heatsink_crude": "Crude Heatsink",
+	"item.enhancedmechanisms.thermal_paste": "Thermal Compound",
+	"item.enhancedmechanisms.dye_crude": "Crude Dye",
+	"item.enhancedmechanisms.silicon": "Silicon",
+	"item.enhancedmechanisms.pcb_crude": "Crude PCB",
+	"item.enhancedmechanisms.contacts_crude": "Crude Contacts",
+	"item.enhancedmechanisms.circuit_crude": "Crude Circuit",
+	"item.enhancedmechanisms.etching_laser": "Etching Laser",
+	"item.enhancedmechanisms.casing_machine_basic": "Basic Machine Casing",
+	"item.enhancedmechanisms.casing_machine_magical": "Magical Machine Casing",
+	"item.enhancedmechanisms.item_input": "Item Input",
+	"item.enhancedmechanisms.item_output": "Item Output",
+	"item.enhancedmechanisms.gear_crude": "Crude Gear",
+	
+	"item.enhancedmechanisms.saw": "Saw",
+	
+	"block.enhancedmechanisms.block_storage_copper": "Block of Copper",
+	"block.enhancedmechanisms.block_storage_tin": "Block of Tin",
+	"block.enhancedmechanisms.block_storage_steel": "Block of Steel",
+	"block.enhancedmechanisms.block_storage_aluminium": "Block of Aluminium",
+	"block.enhancedmechanisms.block_storage_brass": "Block of Brass",
+	"block.enhancedmechanisms.block_storage_silver": "Block of Silver",
+	"block.enhancedmechanisms.block_storage_bronze": "Block of Bronze",
+	"block.enhancedmechanisms.block_storage_zinc": "Block of Zinc",
+	"block.enhancedmechanisms.block_storage_lead": "Block of Lead",
+	"block.enhancedmechanisms.block_storage_fluxate": "Block of Fluxate",
+	
+	"block.enhancedmechanisms.block_storage_infused_witch": "Witch Infused Block"
+	
+}
