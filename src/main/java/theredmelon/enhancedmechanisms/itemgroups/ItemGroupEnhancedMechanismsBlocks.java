@@ -16,7 +16,7 @@ public class ItemGroupEnhancedMechanismsBlocks extends ItemGroup {
 	@Override
 	public ItemStack createIcon() {
 
-		return new ItemStack(ModBlocks.BLOCK_STORAGE_COPPER);
+		return new ItemStack(ModBlocks.block_storage_copper);
 		
 	}
 

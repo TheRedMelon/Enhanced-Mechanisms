@@ -68,6 +68,9 @@ public class ModItems {
 	// Mob Infused Metal Storage Blocks
 	public static Item block_storage_infused_witch;
 	
+	// Machine Blocks
+	public static Item block_machine_threefold_combiner;
+	
 	@SubscribeEvent
 	public static void OnRegisterItems (RegistryEvent.Register<Item> e) {
 		

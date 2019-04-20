@@ -20,22 +20,22 @@ import theredmelon.enhancedmechanisms.utils.Reference;
 public class ModBlocks {
 
 	// Ordinary Metal Blocks
-	public static final Block BLOCK_STORAGE_COPPER = new BlockProcessable(MetalBlocks.COPPER);
-	public static final Block BLOCK_STORAGE_TIN = new BlockProcessable(MetalBlocks.TIN);
-	public static final Block BLOCK_STORAGE_STEEL = new BlockProcessable(MetalBlocks.STEEL);
-	public static final Block BLOCK_STORAGE_ALUMINIUM = new BlockProcessable(MetalBlocks.ALUMINIUM);
-	public static final Block BLOCK_STORAGE_BRASS = new BlockProcessable(MetalBlocks.BRASS);
-	public static final Block BLOCK_STORAGE_SILVER = new BlockProcessable(MetalBlocks.SILVER);
-	public static final Block BLOCK_STORAGE_BRONZE = new BlockProcessable(MetalBlocks.BRONZE);
-	public static final Block BLOCK_STORAGE_ZINC = new BlockProcessable(MetalBlocks.ZINC);
-	public static final Block BLOCK_STORAGE_LEAD = new BlockProcessable(MetalBlocks.LEAD);
-	public static final Block BLOCK_STORAGE_FLUXATE = new BlockProcessable(MetalBlocks.FLUXATE);
+	public static final Block block_storage_copper = new BlockProcessable(MetalBlocks.COPPER);
+	public static final Block block_storage_tin = new BlockProcessable(MetalBlocks.TIN);
+	public static final Block block_storage_steel = new BlockProcessable(MetalBlocks.STEEL);
+	public static final Block block_storage_aluminium = new BlockProcessable(MetalBlocks.ALUMINIUM);
+	public static final Block block_storage_brass = new BlockProcessable(MetalBlocks.BRASS);
+	public static final Block block_storage_silver = new BlockProcessable(MetalBlocks.SILVER);
+	public static final Block block_storage_bronze = new BlockProcessable(MetalBlocks.BRONZE);
+	public static final Block block_storage_zinc = new BlockProcessable(MetalBlocks.ZINC);
+	public static final Block block_storage_lead = new BlockProcessable(MetalBlocks.LEAD);
+	public static final Block block_storage_fluxate = new BlockProcessable(MetalBlocks.FLUXATE);
 	
 	// Mob Infused Blocks
-	public static final Block BLOCK_STORAGE_INFUSED_WITCH = new BlockProcessable(MetalBlocks.INFUSED_WITCH);
+	public static final Block block_storage_infused_witch = new BlockProcessable(MetalBlocks.INFUSED_WITCH);
 	
 	// Machines
-	public static final Block BLOCK_MACHINE_THREEFOLD_COMBINER = new MachineThreefoldCombiner("block_machine_threefold_combiner", Material.GROUND, 5, 30, ItemGroups.blocks);
+	public static final Block block_machine_threefold_combiner = new MachineThreefoldCombiner("block_machine_threefold_combiner", Material.GROUND, 5, 30, ItemGroups.blocks);
 	
 	// TileEntities
 	public static TileEntityType<TileEntityThreefoldCombiner> tileEntityThreefoldCombiner;
